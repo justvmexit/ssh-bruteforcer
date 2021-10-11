@@ -1,0 +1,10 @@
+{
+    "shodan": "",
+    "timeout": 1,
+    "threads": 1,
+    "credentials": [
+        {"username": "admin", "password": "admin"},
+        {"username": "ubnt", "password": "ubnt"},
+        {"username": "root", "password": "root"},
+    ]
+}
